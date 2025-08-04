@@ -1,0 +1,29 @@
+/*Generali*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*DEBUG*/
+
+[class^="container"]{
+    border: 2px dashed black;
+    background-color: blanchedalmond;
+    height: 200PX;
+}
+
+[class^="row"]{
+    border: 2px dashed black;
+    background-color: rgb(39, 151, 69);
+    height: 200PX;
+}
+
+[class^="col"]{
+    border: 2px dashed black;
+    background-color: rgb(196, 147, 73);
+    height: 200PX;
+}
+
+
