@@ -7,23 +7,19 @@
 }
 
 /*DEBUG*/
-
+/*
 [class^="container"]{
-    border: 2px dashed black;
     background-color: blanchedalmond;
-    height: 200PX;
+    height: 800PX;
 }
 
 [class^="row"]{
-    border: 2px dashed black;
     background-color: rgb(39, 151, 69);
-    height: 200PX;
+    height: 400PX;
 }
 
 [class^="col"]{
-    border: 2px dashed black;
     background-color: rgb(196, 147, 73);
-    height: 200PX;
+    height: 400PX;
 }
-
-
+*/
